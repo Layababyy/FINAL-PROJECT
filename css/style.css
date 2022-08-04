@@ -20,18 +20,18 @@ h2{
     color: blueviolet;
 }
 
-title{
+title {
     color: blueviolet;
 }
 
 
-p{ 
+p { 
     font-size: medium;
     line-height: 1.5;
     color: white;
 }
 
-nav ul{
+nav ul {
     list-style-type:none ;
     margin:0;
     padding:0;
@@ -42,7 +42,7 @@ nav > ul > li {
     float:left;
 }
 
-nav ul li a{
+nav ul li a {
     display: block;
     color:blueviolet;
     text-align: center;
@@ -51,7 +51,7 @@ nav ul li a{
 
 }
 
-li a:hover{
+li a:hover {
     background-color:black
 }
  
@@ -88,19 +88,19 @@ li a:hover{
     text-align: right;
 }
 
-.text-center{
+.text-center {
     text-align: center;
 }
 
-.float-right{
+.float-right {
     float:right;
 }
 
-.float-left{
+.float-left {
     float:left
 }
 
-.footer-nav ul li a:visited{
+a:visited {
     color: white;
 }
 
@@ -113,7 +113,7 @@ footer {
     
 }
 
-.footer-nav ul li a{
+.footer-nav ul li a {
     text-decoration:none
 }
 
